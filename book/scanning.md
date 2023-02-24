@@ -342,7 +342,7 @@ mega billionaire among us.
 
 </aside>
 
-[lex]: http://dinosaur.compilertools.net/lex/
+[lex]: https://minnie.tuhs.org/cgi-bin/utree.pl?file=4BSD/usr/src/cmd/lex
 [flex]: https://github.com/westes/flex
 
 Since our goal is to understand how a scanner does what it does, we won't be
